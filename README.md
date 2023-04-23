@@ -1,7 +1,7 @@
 # ChatGPT-for-Rocket.Chat
 Supercharge your communication and collaboration with Rocket.Chat and ChatGPT AI! Our innovative integration combines the best of both worlds, bringing you lightning-fast message drafting, new message creation, and AI-powered message summarization. Say goodbye to information overload and hello to productivity with our cutting-edge app. Whether you're collaborating on a remote software engineering project or just trying to stay organized, Rocket.Chat and ChatGPT AI have got you covered. Download the app now and revolutionize the way you work!
 
-Check out these short videos for a quick demo of what's in store:
+## Check out these short videos for a quick demo of what's in store:
 
 - Draft an instant reply to a message on Rocket.Chat using ChatGPT AI -> https://www.loom.com/share/fb7ee925caa44f1d8fa57b392e451679
 - Creating a new message draft from scratch -> https://www.loom.com/share/ae62e64175e040c090e838cfd2b62ebf

@@ -10,5 +10,5 @@ Supercharge your communication and collaboration with Rocket.Chat and ChatGPT AI
 Let us know what you think and get ready to take your messaging game to the next level! Contact us at -> https://appsforchat.com/contact
 
 ### Want to install this app?
-1. First, locate the releases tab within this Github repo and download the appropriate app zip file.
+1. First, head to the releases tab [here](https://github.com/murtaza98/ChatGPT-for-Rocket.Chat/releases/) within this Github repo and download the appropriate app zip file. Please take into account your Rocket.Chat workspace version while selecting the version. Each release should have detail about which Rocket.Chat version is supports
 2. Follow the guide here to install [this zipped app](https://docs.appsforchat.com/reminder-bot/guides/installation/manual-installation) within your Rocket.Chat workspace
